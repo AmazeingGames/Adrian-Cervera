@@ -1,6 +1,6 @@
 ---
 title: "Abracadavers"
-excerpt: "Top down RPG created for the Jacksepticeye Game Jam. <br/><img src='/images/abracadavers.png'>"
+excerpt: "Top down RPG created for the Jacksepticeye Game Jam. <br/><img src='/images/Abracadavers.png'>"
 collection: portfolio
 ---
 
